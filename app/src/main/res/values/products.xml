@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Products">
+        <item>Яблоки</item>
+        <item>Бананы</item>
+        <item>Апельсины</item>
+        <item>Помидоры</item>
+        <item>Огурцы</item>
+        <item>Картофель</item>
+        <item>Морковь</item>
+        <item>Рис</item>
+        <item>Макароны</item>
+        <item>Хлеб</item>
+    </string-array>
+</resources>
